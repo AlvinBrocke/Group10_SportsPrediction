@@ -119,7 +119,7 @@ Includes:
 # Correlation Analysis Model
 overall_corr = new_fifa_21.corr()['overall']
 
-# Display table with
+# Display table with the attrites and their correlation to "overall"
 overall_corr
 
 # Correlation threshold (+-0.5)
